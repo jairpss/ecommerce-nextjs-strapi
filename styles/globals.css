@@ -1,7 +1,7 @@
 :root {
   --primary: #e99401; 
-  --negro: #262626;
-  --blanco: #FFF;
+  --black: #262626;
+  --white: #FFF;
   --main-font: 'Outfit', sans-serif;
 }
 html {
