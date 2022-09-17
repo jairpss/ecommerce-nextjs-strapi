@@ -12,8 +12,6 @@ export default function Home() {
           <h1>In Home</h1>
       </Layout>
 
-      
-      <Link href="/about">About Us</Link>
     </div>
   )
 }

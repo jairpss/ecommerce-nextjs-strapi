@@ -9,8 +9,9 @@ const Layout = ({children, page}) => {
             <meta name="description" content="Musical Instruments Ecommerce" />
             <link rel="icon" href="/favicon.ico" />
         </Head>
+        
         <Header />
-        <h1>Layout</h1>
+        
 
         {children}
     </div>

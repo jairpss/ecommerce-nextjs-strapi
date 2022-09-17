@@ -11,7 +11,6 @@ const About = () => {
             <h1>About Us</h1>
         </Layout>
         
-        <Link href="/">Go to Home</Link>
     </>
     
   )
